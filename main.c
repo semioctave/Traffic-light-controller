@@ -1,6 +1,12 @@
 // ***** 0. Documentation Section *****
+// This code is for Traffic Light Controller
+// Circuit Consists of North Bridge & West Bridge
+// Circuit has 3 Switches Sw1, Sw2 ,Sw3
+// Sw1 Activates North bridge
+// Sw2 Activates West bridge
+// Sw3 is Pedestrian Switch
 
-
+// Author : Harshit Srivastava
 
 // ***** 1. Pre-processor Directives Section *****
 
